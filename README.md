@@ -15,7 +15,7 @@ Saves receipts of your times and questions asked.
 
 
 **To load your offline .csv:**<br/>
-Name the document 'Problems.csv' and place in the same folder.<br/>
+Place 'Problems.csv' in the same folder.<br/>
 - See the example .csv file (Problems.csv) attached in this repository
 - Use function commands.start() to start OR use commands.problem(x) where x is the problem you want  
 - Use function commands.done() when done  
