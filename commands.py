@@ -7,7 +7,7 @@ import os
 import time
 import pandas as pd
 from . problemset import provide_problem
-from . loader import df, set_problem
+from . loader import df
 def details():
     '''
     Show problem set details
@@ -28,13 +28,13 @@ def start(hard_mode= False):
     Use this function in console to start problem solving
     '''
     if isinstance(df, pd.DataFrame):
-        set_problem(provide_problem(df, -1, hard_mode))
+        provide_problem(df, -1, hard_mode)
 def problem(j):
     '''
     Use this function to answer a specific ID question
     '''
     if isinstance(df, pd.DataFrame):
-        set_problem(provide_problem(df, j))
+        provide_problem(df, j)
 def show():
     '''
     Show current problem

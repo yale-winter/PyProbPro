@@ -5,3 +5,4 @@
 from . import loader
 from . import commands
 from . import problemset
+from . import __main__
