@@ -3,7 +3,7 @@
 ^ custom AI created artwork for pyprobpro
 
 - - - - - - - - - - - - - - - - - - - - - - - - -
-**PyProbPro: Python Problem Provider**
+**pyprobpro: Python Problem Provider**
 - - - - - - - - - - - - - - - - - - - - - - - - -
 Test your Problem Solving and try to get a better time.
 
@@ -21,5 +21,5 @@ Saves receipts of your times and questions asked.
 **To load your offline .csv:**<br/>
 Place 'Problems.csv' in the same folder.<br/>
 - See the example .csv file (Problems.csv) attached in this repository
-- Use function commands.start() to start OR use commands.problem(x) where x is the problem you want  
-- Use function commands.done() when done  
+- Use function pyprobpro.commands.start() to start OR use pyprobpro.commands.problem(x) where x is the problem you want  
+- Use function pyprobpro.commands.done() when done  
