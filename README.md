@@ -19,3 +19,6 @@ Place 'Problems.csv' in the same folder.<br/>
 - See the example .csv file (Problems.csv) attached in this repository
 - Use function commands.start() to start OR use commands.problem(x) where x is the problem you want  
 - Use function commands.done() when done  
+
+![pyprobpro2](https://user-images.githubusercontent.com/5803874/180696104-56df5ccc-0119-4cce-8591-91483d315caa.JPG)
+^ custom AI created artwork for pyprobpro
