@@ -23,3 +23,5 @@ Place 'Problems.csv' in the same folder.<br/>
 - See the example .csv file (Problems.csv) attached in this repository
 - Use function pyprobpro.commands.start() to start OR use pyprobpro.commands.problem(x) where x is the problem you want  
 - Use function pyprobpro.commands.done() when done  
+
+TODO: convenient commands, receipts in folder, more syntax
